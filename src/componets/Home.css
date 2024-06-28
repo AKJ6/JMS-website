@@ -1,0 +1,32 @@
+p
+{
+    background: rgb(255, 166, 0);
+    padding-bottom: 0px;
+    
+}
+.home_h1{
+    margin-top: 70px;
+    margin-bottom: 21px;
+    align-items: center;
+    justify-content: center;
+    font-style:normal;
+    display: flex;
+    text-decoration:underline;
+    
+  }
+  .home_h2{
+    margin-top: 21px;
+    align-items: center;
+    justify-content: center;
+    font-style:normal;
+    display: flex;
+    text-decoration:underline;
+    
+  }
+.abt1
+{
+    padding-left: 30px;
+    align-items: center;
+    justify-content: center;
+    display:flex;
+}

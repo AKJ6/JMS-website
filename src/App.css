@@ -1,0 +1,61 @@
+.Main_div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  
+}
+nav
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(D:\papa_ki_website\my-app\src\images\Wheat-Field.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  width: 1519.3px;
+
+}                           
+.List{  
+  list-style: none;
+  padding: 10px;
+  display: flex;
+}  
+.li{
+  padding-left:  20px;
+  padding-right: 20px;
+  padding-top: 10px;
+}
+.li1
+{
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.button
+{
+background-color: rgba(0, 0, 0, 0);
+border: none;
+font-weight: 500;
+font-size:x-large;
+
+}
+p{
+  padding: 10px 10px;
+}
+.logo_class
+{
+  display:table-row;
+  align-items: center;
+  justify-content: center;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.div3
+{
+  justify-content: center;
+  width: auto;
+  display: flex;
+}
